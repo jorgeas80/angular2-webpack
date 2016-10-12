@@ -1,6 +1,9 @@
 # Angular 2 basic example
 
-Taken from the [original documentation site](https://angular.io/docs/ts/latest/guide/webpack.html)
+Taken from the [original documentation site](https://angular.io/docs/ts/latest/guide/webpack.html). Just run:
+
+- npm install: to install dependencies
+- npm run start: to start the project
 
 Couple of things weren't included in the tutorial:
 
